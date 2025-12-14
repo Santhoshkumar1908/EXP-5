@@ -30,7 +30,7 @@ PROCEDURE:
 
 OBSERVATIONS:
 
-LINE RAGULATION:
+LINE REGULATION:
 
 | S.NO | INPUT VOLTAGE (V)  | OUTPUT VOLTAGE (V)  |
 |------|--------------------|---------------------|        
@@ -40,7 +40,6 @@ LINE RAGULATION:
 | 4    | 15.0    | 5.17    |
 | 5    | 16.0    | 5.18    |
 | 6    | 17.0    | 5.19    |
-
 
 LOAD REGULATION:
 
