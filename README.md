@@ -41,6 +41,7 @@ LINE RAGULATION:
 | 5    | 16.0    | 5.18    |
 | 6    | 17.0    | 5.19    |
 
+
 LOAD REGULATION:
 
 | S.NO | INPUT VOLTAGE (V)  | OUTPUT VOLTAGE (V)  |
